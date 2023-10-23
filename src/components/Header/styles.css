@@ -1,0 +1,15 @@
+header {
+    height: 400px;
+}
+.header {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+}
+.content {
+    font-size: 30px;
+    margin-top: 10px;
+}
+.tag {
+    font-size: 25px;
+}
